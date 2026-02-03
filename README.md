@@ -1,7 +1,6 @@
   # Hi, I'm Nir Yechiel 👋                                                                                                                                               
                                                                                                                                                                          
-  Product engineering person with a passion for open source software. I love building teams, solving hard problems, and figuring out how technology, people, and products
-   come together to create real value.                                                                                                                                   
+  Product engineering person with a passion for open source software. I love building teams, solving hard problems, and figuring out how technology, people, and products come together to create    positive impact.                                                                                                                                 
                                                                                                                                                                          
   Currently focused on Kubernetes and distributed systems. Previously spent years deep in the world of computer networking, OpenStack, and NFV. I enjoy sharing what I learn along the way.                                                                                                                                            
                                                                                                                                                                          
