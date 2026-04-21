@@ -17,16 +17,10 @@
                                                                                                                                                                          
   ## 🔗 Connect                                                                                                                                                          
                                                                                                                                                                          
-  <p align="left">                                                                                                                                                       
-  <a href="https://twitter.com/nyechiel" title="Twitter"><img align="center"                                                                                             
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nyechiel" height="30" width="40"   
-  /></a>                                                                                                                                                                 
-  <a href="https://linkedin.com/in/nyechiel" title="LinkedIn"><img align="center"                                                                                        
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nyechiel" height="30"        
-  width="40" /></a>                                                                                                                                                      
-  <a href="https://nyechiel.com" title="Blog"><img align="center"                                                                                                        
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="nyechiel" height="30" width="40" /></a>
-  <a href="https://github.com/nyechiel/presentation-slides" title="Presentations"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3534/3534033.png"      
-  alt="presentations" height="30" width="40" /></a>                                                                                                                      
-  </p>                                                                                                                                                                                                                                                                                                                                                         
+<p align="left">
+<a href="https://twitter.com/nyechiel" title="Twitter"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nyechiel" height="30" width="40" /></a>&nbsp;
+<a href="https://linkedin.com/in/nyechiel" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nyechiel" height="30" width="40" /></a>&nbsp;
+<a href="https://nyechiel.com" title="Blog"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="nyechiel" height="30" width="40" /></a>&nbsp;
+<a href="https://github.com/nyechiel/presentation-slides" title="Presentations"><img src="https://cdn-icons-png.flaticon.com/512/3534/3534033.png" alt="presentations" height="30" width="40" /></a>
+</p>                                                                                                                                                                                                                                                                                                                                                         
                                                                                                                                                                          
