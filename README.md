@@ -1,6 +1,6 @@
   # Hi, I'm Nir Yechiel 👋                                                                                                                                               
                                                                                                                                                                          
-  Currently a Product Manager at Red Hat, working on AI-powered automation for enterprise workflows. Previously led engineering teams on OpenShift networking (Submariner, Service Mesh, Gateway API,
+  Currently a Product Manager at Red Hat, working on AI-powered automation for enterprise workflows. Previously led engineering teams on OpenShift networking (Submariner, Service Mesh, Ingress/DNS, Gateway API,
    Service Interconnect) and held various Engineering/Product roles across Red Hat, Meta, and Cisco.
                                                                                                                                                                                               
   I care about building products with real impact, using well-crafted artifacts to drive cross-team collaboration, and taking an AI-first approach to how I work.                                                                                                                                                                                                                          
