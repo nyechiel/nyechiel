@@ -1,14 +1,18 @@
   # Hi, I'm Nir Yechiel 👋                                                                                                                                               
                                                                                                                                                                          
-  Product engineering person with a passion for open source software. I love building teams, solving hard problems, and figuring out how technology, people, and products come together to create positive impact.                                                                                                                                                                                                                          
+  Currently a Product Manager at Red Hat, working on AI-powered automation for enterprise workflows. Previously led engineering teams on OpenShift networking (Submariner, Service Mesh, Gateway API,
+   Service Interconnect) and held various Engineering/Product roles across Red Hat, Meta, and Cisco.
+                                                                                                                                                                                              
+  I care about building products with real impact, using well-crafted artifacts to drive cross-team collaboration, and taking an AI-first approach to how I work.                                                                                                                                                                                                                          
                                                                                                                                                                          
   ## ✍️ Writing                                                                                                                                                          
                                                                                                                                                                          
   I maintain a blog where I share thoughts on:                                                                                                                           
                                                                                                                                                                          
-  - Product, engineering and technology                                                                                                                                 
-  - Engineering management and people                                                                                                                                  
-  - Computer networking and cloud infrastructure                                                                                                                       
+  - Product management and AI                                                                                                                                 
+  - Engineering leadership and people                                                                                                                                  
+  - Open source and cloud infrastructure
+                                                                                                                       
   - Career reflections and lessons learned                                                                                                                             
                                                                                                                                                                          
   **Latest posts**: [nyechiel.com/blog](https://nyechiel.com/blog) • **Subscribe**: [RSS feed](https://nyechiel.com/feed.xml)                                            
