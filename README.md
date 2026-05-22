@@ -1,6 +1,6 @@
   # Hi, I'm Nir Yechiel 👋                                                                                                                                               
                                                                                                                                                                          
-  Currently a Product Manager at Red Hat, working on AI-powered systems for enterprise workflows. Previously led engineering teams on OpenShift networking (Submariner, Service Mesh, Ingress/DNS, Gateway API,
+  Currently a Product Manager at Red Hat, working on AI-powered systems for the enterprise. Previously led engineering teams on OpenShift Networking (Submariner, Service Mesh, Ingress/DNS, Gateway API,
    Service Interconnect) and held various Engineering and Product roles across Red Hat, Facebook (Meta), and Cisco.
                                                                                                                                                                                               
   I care about building products with real impact, using well-crafted artifacts to drive cross-team collaboration, and taking an AI-first approach to how I work.                                                                                                                                                                                                                          
@@ -9,7 +9,7 @@
                                                                                                                                                                          
   I maintain a blog where I share thoughts on:                                                                                                                           
                                                                                                                                                                          
-  - Product management and AI                                                                                                                                 
+  - Product Management and AI                                                                                                                                 
   - Engineering leadership and people                                                                                                                                  
   - Open source and cloud infrastructure
                                                                                                                        
