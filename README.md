@@ -3,8 +3,12 @@
 I am a product manager at Red Hat, focused on the intersection of AI and enterprise software. Previously led engineering teams on OpenShift Networking (Submariner, Service Mesh, Ingress/DNS, Gateway API, Service Interconnect) and held engineering and product roles at Red Hat, Facebook (Meta), and Cisco.  
 
 
-I care about building products with real impact, using well-crafted artifacts to drive cross-team collaboration, and taking an AI-first approach to how I work.                                                                                                                                                                                                                          
-                                                                                                                                                                         
+I care about building products with real impact, using well-crafted artifacts to drive cross-team collaboration, and taking an AI-first approach to how I work.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="300" alt="This is fine">
+</p>
+
   ## ✍️ Writing                                                                                                                                                          
                                                                                                                                                                          
   I maintain a blog where I share thoughts on:                                                                                                                           
