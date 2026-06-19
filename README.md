@@ -5,9 +5,7 @@ I am a product manager at Red Hat, focused on the intersection of AI and enterpr
 
 I care about building products with real impact, using well-crafted artifacts to drive cross-team collaboration, and taking an AI-first approach to how I work.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="300" alt="This is fine">
-</p>
+<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="400" alt="This is fine">
 
   ## ✍️ Writing                                                                                                                                                          
                                                                                                                                                                          
